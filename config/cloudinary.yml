@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: de4njqf6h
+  api_key: '243952952366345'
+  api_secret: eUP75-TFDhLaausPGup5_mr2kTs
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: de4njqf6h
+  api_key: '243952952366345'
+  api_secret: eUP75-TFDhLaausPGup5_mr2kTs
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: de4njqf6h
+  api_key: '243952952366345'
+  api_secret: eUP75-TFDhLaausPGup5_mr2kTs
+  enhance_image_tag: true
+  static_image_support: false
